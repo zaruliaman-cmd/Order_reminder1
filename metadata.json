@@ -1,0 +1,6 @@
+{
+  "name": "Order Reminder",
+  "description": "Aplikasi peringatan pesanan pelanggan dalam Bahasa Melayu dengan tema gelap, pangkalan data Room, dan penggera tepat AlarmManager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
